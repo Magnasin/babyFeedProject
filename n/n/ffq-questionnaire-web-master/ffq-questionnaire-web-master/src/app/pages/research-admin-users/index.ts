@@ -1,1 +1,0 @@
-export * from './research-admin-users.component';

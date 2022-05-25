@@ -1,1 +1,0 @@
-# ffq-authentication-service

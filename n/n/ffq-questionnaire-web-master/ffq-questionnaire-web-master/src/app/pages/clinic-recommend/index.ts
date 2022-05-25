@@ -1,1 +1,0 @@
-export * from './clinic-recommend.component';
