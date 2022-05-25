@@ -9,6 +9,7 @@ To get access to a video of how to setup the project you can follow the link: ht
 At the moment of doing this guide the latest Ubuntu version is not supported by MongoDB. Ubuntu 20.04 does not have that compatibility issue.  
 
 download ubuntu 20.04:		https://releases.ubuntu.com/20.04.4/?_ga=2.31656056.794909286.1653437146-943425287.1653437146
+
 virtual machine windows:	https://www.vmware.com/go/downloadplayer
 
 ********************************************************************************************************************************************************************
