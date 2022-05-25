@@ -171,11 +171,11 @@ to configure your github:
 
 ********************************************************************************************************************************************************************
 
-to check the configuration:   git config --list
+to check the configuration:   		git config --list
 
 ********************************************************************************************************************************************************************
 
-if you wanna to use vs code's github tool open vs code:   ctrl + shift + g and follow the steps.
+if you wanna to use vs code's github tool open vs code:   	ctrl + shift + g 	and follow the steps.
 
 ********************************************************************************************************************************************************************
 
