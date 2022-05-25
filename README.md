@@ -167,7 +167,7 @@ to install github:
 to configure your github: 
 
         1. 		git config --global user.name "your_user_name"
-        2. 		git config --global user.email "your_email@example.com"
+        2. 		git config --global user.email your_email@example.com
 
 ********************************************************************************************************************************************************************
 
